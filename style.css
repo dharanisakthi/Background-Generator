@@ -15,6 +15,10 @@ h1{
 	letter-spacing: .3em;
     width: 100%;
 }
+h2{
+	margin-top: 250px;
+	margin-bottom: 40px;
+}
 h3{
 	font:900 1em 'Raleway',sans-serif;
 	color: rgba(0,0,0,.5);
